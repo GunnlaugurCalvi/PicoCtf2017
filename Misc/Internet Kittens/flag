@@ -1,0 +1,4 @@
+root@kali:~/Desktop# nc shell2017.picoctf.com 53382
+Yay! You made it!
+Take a flag!
+e7791aeada4dcc5dd89a0023f4f8bbce
