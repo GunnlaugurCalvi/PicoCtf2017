@@ -1,0 +1,9 @@
+Leaf of the Forest
+We found an even bigger directory tree hiding a flag starting at /problems/db39b5c002d8445dc6d2bbf49a8ccc37. It would be impossible to find the file named flag manually...
+
+in linux you can use 'find' to locate a file with '-iname'
+
+so 'find -iname "flag"' gave me /problems/db39b5c002d8445dc6d2bbf49a8ccc37/forest/treeada53a/trunkb393/trunkb8ea/trunka3c4/trunk639
+d/trunk324e/trunk0bf8/trunkf462/branchd463/flag
+
+and inside flag -> c99501b0fe95402ed1c9191102fe1b68
