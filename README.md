@@ -1,1 +1,1 @@
-"# PicoCtf2017" 
+# PicoCtf2017
